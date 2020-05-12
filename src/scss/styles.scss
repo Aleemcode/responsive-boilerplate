@@ -1,0 +1,12 @@
+$theme-colors: ( "primary": #FF69B4);
+@import "node_modules/bootstrap/scss/bootstrap";
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: orange;
+    color: white;
+}
